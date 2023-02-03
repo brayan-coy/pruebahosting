@@ -17,7 +17,7 @@ body {
 }
 
 .titulo {
-    color: #642a73;
+    color: #3ebd2d;
     font-size: 30px;
     text-align: center;
     margin-bottom: 60px;
@@ -271,7 +271,7 @@ footer{
 
 .content-foo h4{
     color: #fff;
-    border-bottom: 3px solid #af20d3;
+    border-bottom: 3px solid #26ec14;
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
